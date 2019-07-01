@@ -1,4 +1,6 @@
-
+/*
+该数据库是在navicat中的命令列中操作生成，然后通过navicat逆向导出的，具体操作请看两张图片。
+ */
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
